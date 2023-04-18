@@ -46,13 +46,3 @@ $(document).ready(function () {
     });
 
 
-{/* <div class="card" style="width: 18rem;">
-  <img src="${user.img}" class="card-img-top" alt="${user.name}">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
-
-<li>${users[0].name} <img src="${users[0].img}">${users[0].level}</li> */}
