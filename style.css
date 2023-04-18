@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(97, 150, 150) !important;
+    background-image: url(./assets/digimon.jpg) !important;
 }
 .active{
     color: azure;
@@ -33,3 +33,9 @@ display: flex !important;
 justify-content: center !important;
 }
 
+.nombresdigi{
+    color:darkblue !important;
+    font-size: 15px !important;
+    ;
+
+}
